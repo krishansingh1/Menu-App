@@ -12,7 +12,9 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.5;
   text-transform: capitalize;
-  
+  color: hsl(209, 61%, 16%);
+  font-size: 0.75rem;
 }
 
-
+.title {
+}
