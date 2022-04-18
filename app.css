@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 *,
 ::after,
@@ -9,12 +9,19 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
   line-height: 1.5;
   text-transform: capitalize;
   color: hsl(209, 61%, 16%);
   font-size: 0.75rem;
 }
 
+.menu {
+  padding: 5rem 0;
+}
+h2 {
+  font-size: 2rem;
+}
 .title {
+  text-align: center;
 }
