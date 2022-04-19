@@ -34,9 +34,12 @@ h2 {
   margin-right: auto;
 }
 
-.btn-container{
-  margin-left: 10rem;
+.btn-container {
+  margin-left: 5rem;
 }
-.btn-container button{
+
+.btn-container button {
   margin-left: 1rem;
+  padding: 0.3rem 0.5rem;
+  font-size: 1rem;
 }
