@@ -1,1 +1,1 @@
-const all=
+const all=document.getElementById('all')
