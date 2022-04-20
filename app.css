@@ -104,3 +104,10 @@ h2 {
 .price {
   color: #c59d5f;
 }
+
+.item-text{
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  text-transform: none;
+  color:  hsl(210, 22%, 49%);
+}
